@@ -75,7 +75,7 @@
             <div class="w-9 h-9 flex items-center justify-center shadow-glow">
                 <img src="{{ asset('images/citlogo.png') }}" 
                 alt="Registrar Logo" 
-                class="w-9 h-9 object-contain rounded-lg">
+                class="w-9 h-9 object-contain">
             </div>
             <div class="leading-tight">
                 <p class="font-display font-semibold text-white text-sm">Registrar Portal</p>
