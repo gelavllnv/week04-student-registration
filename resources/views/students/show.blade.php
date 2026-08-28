@@ -24,7 +24,7 @@
                 </h2>
                 <p class="text-violet-300 text-sm mt-1">{{ $student->program }}</p>
                 <span class="inline-flex items-center gap-1.5 mt-3 text-xs font-mono-tag text-gold-300 bg-gold-500/10 border border-gold-500/30 px-3 py-1 rounded-full">
-                    ID · {{ $student->student_id }}
+                    Student ID : {{ $student->student_id }}
                 </span>
             </div>
         </div>
