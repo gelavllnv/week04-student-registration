@@ -59,7 +59,6 @@ the page to the moment they see their saved profile.
 6. **Database** – the record is stored in the `students` table in MySQL.
 7. **Response** – Laravel sends a response back to the browser, either a success page or the form again with error messages.
 
-
 ![Laravel Request Lifecycle](documentation/laravel_request_lifecycle.png)
 
 ---
@@ -122,17 +121,43 @@ the system from harmful files being uploaded.
 
 ## 8. Screenshots
 
+### Registration Form
+
 ![Registration Form](screenshots/registrationform.png)
+
+### Validation Errors
+
 ![Validation Errors](screenshots/validation_error1.png)
 ![Validation Errors](screenshots/validation_error2.png)
 ![Validation Errors](screenshots/validation_error3.png)
+
+### Successful Registration
+
 ![Successful Registration](screenshots/success_registration.png)
+
+### Flash Message
+
 ![Flash Message](screenshots/flash_message.png)
+
+### Uploaded Profile Picture
+
 ![Uploaded Profile Picture](screenshots/uploaded_image.png)
+
+### Database Table (MySQL Workbench)
+
 ![Database Table (MySQL Workbench)](screenshots/dbtable1.png)
 ![Database Table (MySQL Workbench)](screenshots/dbtable2.png)
+
+### Student Profile Page
+
 ![Student Profile Page](screenshots/studentprofile.png)
+
+### VS Code Project Structure
+
 ![VS Code Project Structure](screenshots/vsprojectstructure.png)
+
+### GitHub Repository
+
 ![GitHub Repository](screenshots/github_repo.png)
 
 ---
