@@ -72,8 +72,10 @@
     <!-- Sidebar -->
     <aside class="hidden lg:flex flex-col w-64 shrink-0 border-r border-ink-700/60 bg-ink-900/70 backdrop-blur-xl">
         <div class="h-20 flex items-center gap-3 px-6 border-b border-ink-700/60">
-            <div class="w-9 h-9 rounded-lg bg-gradient-to-br from-violet-500 to-violet-700 flex items-center justify-center shadow-glow">
-                <span class="font-display font-bold text-white text-sm">CIT</span>
+            <div class="w-9 h-9 flex items-center justify-center shadow-glow">
+                <img src="{{ asset('images/logo.png') }}" 
+                alt="Registrar Logo" 
+                class="w-9 h-9 object-contain rounded-lg">
             </div>
             <div class="leading-tight">
                 <p class="font-display font-semibold text-white text-sm">Registrar Portal</p>
