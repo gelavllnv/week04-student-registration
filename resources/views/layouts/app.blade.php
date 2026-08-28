@@ -78,7 +78,7 @@
                 class="w-9 h-9 object-contain">
             </div>
             <div class="leading-tight">
-                <p class="font-display font-semibold text-white text-sm">Registrar Portal</p>
+                <p class="font-display font-semibold text-white text-sm">Registration Portal</p>
                 <p class="text-[11px] text-slate-400 font-mono-tag">College of IT</p>
             </div>
         </div>
